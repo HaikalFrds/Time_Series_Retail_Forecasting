@@ -278,7 +278,7 @@ Batch Size: 1
 - [Statsmodels SARIMAX](https://www.statsmodels.org/stable/generated/statsmodels.tsa.statespace.sarimax.SARIMAX.html)
 - [TensorFlow LSTM](https://www.tensorflow.org/api_docs/python/tf/keras/layers/LSTM)
 - [pmdarima Auto ARIMA](https://alkaline-ml.com/pmdarima/)
-
+- [Project1 - Synergy Squad Team .pdf](https://github.com/user-attachments/files/21052180/Project1.-.Synergy.Squad.Team.pdf)
 
 
 *Made with ❤️ by Synergy Team*
